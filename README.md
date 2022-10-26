@@ -1,1 +1,1 @@
-"# Quick-sort.c" 
+# 兩個C語言演示了Quick Sort運作
